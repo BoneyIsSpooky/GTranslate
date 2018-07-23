@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+build/
+out/
+gradle/
+gradlew
+gradlew.bat
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.class
+Test.java

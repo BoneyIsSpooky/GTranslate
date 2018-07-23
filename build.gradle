@@ -1,0 +1,8 @@
+plugins {
+    id 'java'
+}
+
+group 'de.boney.gtranslate'
+version '1'
+
+sourceCompatibility = 1.8
